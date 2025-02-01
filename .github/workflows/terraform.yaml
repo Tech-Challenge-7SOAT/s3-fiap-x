@@ -1,4 +1,4 @@
-name: Create SNS Topic
+name: Create S3
 
 on:
   push:
